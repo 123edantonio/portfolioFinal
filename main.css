@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+ul {
+  color: red;
+}
+img {
+  float: right;
+}
+.second {
+  background-color: #3c3c3c;
+  color: white;
+}
+.about {
+  padding-top: 3%;
+  color: red;
+  text-align: center;
+}
+.edu {
+  padding-top: 3%;
+  color: white;
+  text-align: center;
+}
+.interests {
+  padding-top: 3%;
+  color: red;
+  text-align: center;
+}
